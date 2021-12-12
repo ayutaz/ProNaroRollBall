@@ -1,4 +1,4 @@
-name: Auto Build
+name: Manual Build
 
 env:
   UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
