@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
@@ -13,10 +12,6 @@ public class PlayerController : MonoBehaviour
         _rigidbody = GetComponent<Rigidbody>();
     }
 
-    // Start is called before the first frame update
-    private void Start()
-    {
-    }
 
     // Update is called once per frame
     private void Update()
