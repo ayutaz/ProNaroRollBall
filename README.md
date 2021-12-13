@@ -2,7 +2,7 @@
 
 プロなろでのUnityWorkshop用のサンプル
 
-[デモURL](https://ayutaz.github.io/RollBall/WebGL/WebGL/)
+[デモURL](https://ayutaz.github.io/ProNaroRollBall/WebGL/WebGL/)
 
 ## 追加機能の例
 * 追従カメラ
